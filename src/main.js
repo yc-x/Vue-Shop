@@ -5,7 +5,6 @@ import router from './router'
 import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import { faShoppingCart} from '@fortawesome/free-solid-svg-icons'
-// not yet installed anime.js
 
 import 'bootstrap/dist/css/bootstrap.css'
 
